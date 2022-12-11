@@ -1,1 +1,16 @@
-[{"title":"Test Title","text":"Test text"},{"title":"New Note","text":"Note text","id":"6d0d"},{"title":"This is a test","text":"Are the front and back end working together?","id":"785b"}]
+[
+    {
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "title": "Xmas Wish List",
+        "text": "PS5\n\nApple Watch\n\nNew socks",
+        "id": "f309"
+    },
+    {
+        "title": "Grocery List",
+        "text": "1.  Bell peppers\n2.  Napkins\n3.  Oreos\n\n",
+        "id": "8533"
+    }
+]

@@ -24,6 +24,7 @@ app.get('/notes', (req, res) =>
   res.sendFile(path.join(__dirname, '/public/notes.html'))
 );
 
+// GET Route for unused endpoints -> returns to homepage
 app.get('*', (req, res) =>
   res.sendFile(path.join(__dirname, '/public/index.html'))
 );
