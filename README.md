@@ -25,7 +25,7 @@ Before running the application, make sure you have installed the 'express' packa
 
 ## Usage
 
-Navigate to the repository in the terminal. Then, run 'node server.js.' The terminal will print a localhost URL that will send you to the Note Taker homepage. Enter text into the note title and note text fields, then click the save button that appears in the navigation bar at the top of the page. Clicking on an existing note repopulates the Note Title and Note Text fields with the existing note's title and text. Clicking the trashcan icon next to an existing note deletes that specific note. Finally, clicking the 'add' symbol in the navigation bar allows you to write a new note. 
+Navigate to the repository in the terminal. Then, run 'node server.js.' The terminal will print a localhost URL that will send you to the Note Taker homepage. Enter text into the note title and note text fields, then click the save button that appears in the navigation bar at the top of the page. Clicking on an existing note repopulates the Note Title and Note Text fields with the existing note's title and text. Clicking the trash can icon next to an existing note deletes that specific note. Finally, clicking the '+' symbol in the navigation bar allows you to write a new note. 
 
 Test this application on Heroku here: 
 
